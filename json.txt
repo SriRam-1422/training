@@ -1,0 +1,20 @@
+Json(JavaScript object Notation):
+--------------------------------
+-> it is a plain-text file used to store data in the form of key and value pair.
+where all the keys should be enclosed in a double quote
+--> two met:
+1.strigify()
+-will convert object into JSON format.
+2.parse()
+-willl convert JSON to object format.
+
+how to create a JSON.
+---------------------
+step 1:-create a .json file.
+
+step 2:-create a data in form of key and value
+        and key should enclosed with double quotes.
+        has a value we should not use undefined and
+        function data type. 
+
+        -->[{ } , { } , { } , { } , .....] (array of object)
